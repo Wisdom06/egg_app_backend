@@ -1,0 +1,4 @@
+enum StatusSante{
+    MALADE,
+    SANTE
+}
